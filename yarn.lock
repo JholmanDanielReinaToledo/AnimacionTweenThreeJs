@@ -8553,6 +8553,11 @@ tsutils@^3.21.0:
   dependencies:
     tslib "^1.8.1"
 
+tween.js@^16.6.0:
+  version "16.6.0"
+  resolved "https://registry.yarnpkg.com/tween.js/-/tween.js-16.6.0.tgz#739104c9336cc4f11ee53f9ce7cede51e6723624"
+  integrity sha512-IIhm0VsiBxNJO+WsXUvjcq+u3sKfOwSu67Yh9T5xSpXb2eHHi9+uZDDGBc7uMXjfud0bYiLkYCEb7JXIGXi5KA==
+
 type-check@^0.4.0, type-check@~0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/type-check/-/type-check-0.4.0.tgz#07b8203bfa7056c0657050e3ccd2c37730bab8f1"
